@@ -1,0 +1,91 @@
+call_id,suspect_id,call_time,call_duration,recipient_relation
+201,6,6/1/25 19:42,4 min,Art Buyer
+202,6,6/1/25 19:51,7 min,Hospital
+203,26,6/1/25 19:27,1 min,Gallery
+204,28,6/1/25 19:39,9 min,Gallery
+205,4,6/1/25 19:38,1 min,Gallery
+206,13,6/1/25 19:28,6 min,Gallery
+207,2,6/1/25 19:25,2 min,Hospital
+208,23,6/1/25 19:21,7 min,Hospital
+209,8,6/1/25 19:51,7 min,Hospital
+210,5,6/1/25 19:56,6 min,Victim
+211,16,6/1/25 19:47,6 min,Family
+212,14,6/1/25 19:47,7 min,Friend
+213,17,6/1/25 19:42,10 min,Friend
+214,12,6/1/25 19:29,4 min,Family
+215,14,6/1/25 19:32,5 min,Victim
+216,11,6/1/25 19:38,1 min,Gallery
+217,21,6/1/25 19:52,6 min,Hospital
+218,11,6/1/25 19:24,9 min,Art Buyer
+219,17,6/1/25 19:38,4 min,Family
+220,29,6/1/25 19:41,2 min,Unknown
+221,1,6/1/25 19:21,1 min,Family
+222,17,6/1/25 19:36,9 min,Friend
+223,7,6/1/25 19:45,8 min,Hospital
+224,29,6/1/25 20:00,2 min,Gallery
+225,25,6/1/25 19:32,9 min,Unknown
+226,22,6/1/25 19:20,7 min,Hospital
+227,16,6/1/25 19:39,1 min,Gallery
+228,4,6/1/25 19:46,1 min,Unknown
+229,17,6/1/25 19:37,8 min,Unknown
+230,18,6/1/25 19:29,7 min,Art Buyer
+231,13,6/1/25 19:26,5 min,Gallery
+232,14,6/1/25 19:24,10 min,Friend
+233,11,6/1/25 19:27,10 min,Unknown
+234,22,6/1/25 19:32,3 min,Art Buyer
+235,23,6/1/25 19:36,3 min,Family
+236,2,6/1/25 19:53,5 min,Victim
+237,8,6/1/25 19:57,1 min,Family
+238,9,6/1/25 19:23,9 min,Art Buyer
+239,13,6/1/25 19:56,1 min,Family
+240,24,6/1/25 19:21,5 min,Hospital
+241,12,6/1/25 19:46,9 min,Gallery
+242,7,6/1/25 19:32,7 min,Unknown
+243,15,6/1/25 19:43,9 min,Unknown
+244,3,6/1/25 19:54,10 min,Friend
+245,29,6/1/25 19:44,3 min,Family
+246,17,6/1/25 19:37,4 min,Friend
+247,1,6/1/25 19:26,1 min,Unknown
+248,9,6/1/25 19:21,9 min,Friend
+249,18,6/1/25 19:31,8 min,Victim
+250,3,6/1/25 19:39,5 min,Family
+251,14,6/1/25 19:27,4 min,Victim
+252,3,6/1/25 19:55,6 min,Art Buyer
+253,15,6/1/25 19:46,10 min,Gallery
+254,5,6/1/25 19:33,4 min,Friend
+255,10,6/1/25 19:33,8 min,Gallery
+256,14,6/1/25 19:51,9 min,Friend
+257,8,6/1/25 19:41,2 min,Victim
+258,6,6/1/25 19:23,2 min,Victim
+259,19,6/1/25 19:56,4 min,Unknown
+260,7,6/1/25 19:41,6 min,Art Buyer
+261,17,6/1/25 19:25,10 min,Gallery
+262,19,6/1/25 19:36,4 min,Unknown
+263,21,6/1/25 19:23,6 min,Unknown
+264,2,6/1/25 19:21,6 min,Gallery
+265,21,6/1/25 19:55,10 min,Art Buyer
+266,20,6/1/25 19:41,2 min,Art Buyer
+267,18,6/1/25 19:34,8 min,Family
+268,13,6/1/25 19:48,4 min,Hospital
+269,14,6/1/25 19:23,4 min,Family
+270,5,6/1/25 19:40,9 min,Victim
+271,14,6/1/25 19:32,8 min,Unknown
+272,12,6/1/25 19:34,10 min,Victim
+273,15,6/1/25 19:41,5 min,Hospital
+274,6,6/1/25 19:49,5 min,Family
+275,29,6/1/25 19:29,7 min,Victim
+276,19,6/1/25 19:46,10 min,Unknown
+277,12,6/1/25 19:32,9 min,Gallery
+278,14,6/1/25 19:54,10 min,Gallery
+279,14,6/1/25 19:41,1 min,Friend
+280,23,6/1/25 19:38,2 min,Victim
+281,11,6/1/25 19:45,9 min,Unknown
+282,17,6/1/25 19:43,10 min,Art Buyer
+283,8,6/1/25 19:41,9 min,Hospital
+284,13,6/1/25 19:33,5 min,Hospital
+285,18,6/1/25 19:35,4 min,Unknown
+286,3,6/1/25 19:38,6 min,Art Buyer
+287,17,6/1/25 19:43,8 min,Family
+288,26,6/1/25 19:55,1 min,Victim
+289,3,6/1/25 19:44,7 min,Unknown
+290,1,6/1/25 19:54,8 min,Friend

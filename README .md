@@ -3,7 +3,7 @@
 # Case File: The Murder of Roland Greene  
 **Prepared by:** Lead Data Analyst  
 **Date:** October 3rd, 2025  
-**Case No.:** RG-0625-Vault  
+**Case No.:** RG-0625-Vault  .
 
 On the evening of June 1st, 2025, Roland Greene, a renowned art collector, was found dead in the Vault Room of his private estate. The estimated time of death was 8:00pm, coinciding with a gunshot heard within the mansion. While 30 guests and associates claimed to have alibis, digital forensics revealed one of them is lying. This report uses SQL analysis of call logs, access logs, and forensic events to reconstruct the timeline, test alibis, and identify the murderer.  
 
